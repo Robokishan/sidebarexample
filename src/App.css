@@ -5,6 +5,19 @@
 .App-logo {
   height: 40vmin;
 }
+.OuterCont{
+  display: flex;
+}
+.FlexCont{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 22px;
+}
+
+.IconCont{
+  
+}
 
 .App-header {
   background-color: #282c34;
